@@ -11,7 +11,7 @@ pageEncoding="UTF-8"%>
         <h1>Index Page</h1>
         <p>this is sample page for Spring Boot!</p>
         <p>${msg}</p>
-        <form method="/post">
+        <form method="post" action="/post">
             <table>
                 <tr><td>ID:</td><td><input type="text"name="id"/></td></tr>
                 <tr><td>タイトル：</td><td><input type="text" name="title"/></td></tr>
