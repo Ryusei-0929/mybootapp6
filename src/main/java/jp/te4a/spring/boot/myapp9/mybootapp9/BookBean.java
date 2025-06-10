@@ -17,7 +17,6 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class BookBean {
     @Id
-    @GeneratedValue
     private Integer id ;
     @Column(nullable = false)
     private String title;
