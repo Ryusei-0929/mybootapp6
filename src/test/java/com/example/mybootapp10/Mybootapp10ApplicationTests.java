@@ -1,4 +1,4 @@
-package com.example.mybootapp9;
+package com.example.mybootapp10;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
